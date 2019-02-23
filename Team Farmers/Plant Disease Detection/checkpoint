@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/abhi170599/Desktop/Plant-disease-detection-master/corn.tflearn"
+all_model_checkpoint_paths: "/home/abhi170599/Desktop/Plant-disease-detection-master/corn.tflearn"
