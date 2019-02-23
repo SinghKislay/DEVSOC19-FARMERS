@@ -1,0 +1,6 @@
+LSTM Architecture for Time Sereis Forecasting
+
+The LSTM Model has been trained on historical values of Per-Capita-Consumption of Rice in India of last 50 years
+
+Mean Square Error : 200
+Accuracy: 95%
